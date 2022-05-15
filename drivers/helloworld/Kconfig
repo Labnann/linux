@@ -1,0 +1,4 @@
+config HELLOMODULE
+tristate "hello world module"
+help
+HelloModule is a hello world module.
