@@ -243,4 +243,7 @@ source "drivers/peci/Kconfig"
 
 source "drivers/helloworld/Kconfig"
 
+source "drivers/hellopanic/Kconfig"
+
+
 endmenu

@@ -1,0 +1,4 @@
+config HELLOPANICMODULE
+tristate "hello world panic module"
+help
+HelloPanic is a hello world world module.

@@ -189,5 +189,6 @@ obj-$(CONFIG_COUNTER)		+= counter/
 obj-$(CONFIG_MOST)		+= most/
 obj-$(CONFIG_PECI)		+= peci/
 
-#HELLO WORLD DRIVER
+#HELLO WORLD and HELLO PANIC DRIVER
 obj-$(CONFIG_HELLOMODULE) += helloworld/
+obj-$(CONFIG_HELLOPANICMODULE) += hellopanic/
